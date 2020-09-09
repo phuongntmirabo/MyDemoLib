@@ -1,0 +1,22 @@
+{
+  "name": "MyDemoLib",
+  "version": "0.1.0",
+  "summary": "A short description of MyDemoLib.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/phuongntmirabo/MyDemoLib",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "phuongntmirabo": "phuongnt@mirabo.com.vn"
+  },
+  "source": {
+    "git": "https://github.com/phuongntmirabo/MyDemoLib.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "MyDemoLib/Classes/**/*"
+}
