@@ -1,6 +1,8 @@
 use_frameworks!
+target 'MyDemoLib' do
+  pod 'MyDemoLib', :path => 'https://github.com/phuongntmirabo/MyDemoLib.git'
+end
+
 target 'MyDemoLib_Tests' do
-  pod 'MyDemoLib', :path => '../'
-  
-  
+  pod 'MyDemoLib', :path => 'https://github.com/phuongntmirabo/MyDemoLib.git'
 end
